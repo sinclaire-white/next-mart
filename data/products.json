@@ -1,0 +1,56 @@
+[
+  {
+    "id": "kzgR2Zjdjy7al-h8NW54n",
+    "name": "Test",
+    "description": "Test 1 2 3",
+    "price": 5000,
+    "category": "Accessories",
+    "image": "https://d8iqbmvu05s9c.cloudfront.net/ajprhqgqg1otf7d5sm7u3brf27gv",
+    "createdAt": "2025-08-28T02:28:16.739Z"
+  },
+  {
+    "id": "hS62eNW2XOiXtBGBjFyuL",
+    "name": "Iphone",
+    "description": "sell kidney buy phone",
+    "price": 1200,
+    "category": "Electronics",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-card-40-iphone16prohero-202409_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=MjUrdW9rK0I3Y0hBcFdUR2pNVTRtUFpIU2c1QXYxN1o5THJsVFdubi8vdU9STS9wYXZTN1hicnBjZ2p3Y1lQVndnZDdrU0tSek5hTHNwZzJKOWwvbnRrb3YwRE90eklmVkIwdHovcEFheWlka3BhTzl6cklqNm1lL21taEZoT3c",
+    "createdAt": "2025-08-28T02:42:44.410Z"
+  },
+  {
+    "id": "F9G3TGb16RSGkhcu3k0Q_",
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "High-quality wireless earbuds with noise cancellation and 24-hour battery life. Perfect for music lovers and professionals.",
+    "price": 90,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+    "createdAt": "2025-08-28T02:47:51.532Z"
+  },
+  {
+    "id": "sIgyuJPtAt0HCX66YTSfY",
+    "name": "Premium Cotton T-Shirt",
+    "description": "100% organic cotton t-shirt with comfortable fit and durable quality. Available in multiple colors",
+    "price": 39.99,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+    "createdAt": "2025-08-28T02:48:18.532Z"
+  },
+  {
+    "id": "Hk8JXtWXYIhYPq9BCLT_D",
+    "name": "The Art of Programming",
+    "description": "Comprehensive guide to modern programming techniques and best practices for developers of all levels",
+    "price": 234,
+    "category": "Books",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500",
+    "createdAt": "2025-08-28T02:48:50.725Z"
+  },
+  {
+    "id": "4aKhGUuG2KbRuskfkx8Dh",
+    "name": "Leather Smartwatch Band",
+    "description": "Genuine leather band compatible with most smartwatches. Elegant design with quick-release pins.",
+    "price": 67,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "createdAt": "2025-08-28T02:49:22.074Z"
+  }
+]
