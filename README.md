@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ProductHub
+
+**ProductHub** is a simple product management and discovery platform built with **Next.js** and **Tailwind CSS**. Users can browse products, view details, and add new products (authenticated users only). Authentication uses **NextAuth.js** with email/password.
+
+
+Route Summary
+This project includes the following main pages and API routes:
+
+/: The homepage of the application. It provides an introduction to ProductHub and highlights its key features.
+
+/products: The main product listing page. This route displays all available products.
+
+/dashboard/add-product: A protected route that allows authenticated users to add a new product to the collection.
+
+/api/products: An API route for handling product data.
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
